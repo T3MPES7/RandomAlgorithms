@@ -15,4 +15,4 @@ target=32
 if (LinearSearch(arry,target)==1): 
     print("Element", target, " Has been found!")
 else:
-    print("No such element exi
+    print("No such element exists")
