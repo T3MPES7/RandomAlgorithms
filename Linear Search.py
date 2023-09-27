@@ -1,5 +1,5 @@
 #Linear Search using Python
-
+#time complexity 0(n)
 def LinearSearch(arry, target):
     
     for i in range(0, len(arry)):   #Runs sequanlty through the array 
