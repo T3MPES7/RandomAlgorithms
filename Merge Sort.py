@@ -1,5 +1,5 @@
 #O(KnLog n) Time Complexity
-
+#Linear Space Complexity
 
 def Merge_sort(nums):
     """Through recursion continusaly splits the array into two groups,
